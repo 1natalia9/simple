@@ -22,7 +22,7 @@ ul {
     padding: 0;
     margin: 0 0 0 140px;
     list-style: none;
-    padding-left: 150px;
+    padding-left: 180px;
 }
 li {
     float: left;
@@ -39,7 +39,7 @@ li {
 }
 .logo .name {
     position: absolute;
-    margin-left: 13%;
+    margin-left: 12%;
     margin-top: 65px;
     color: #ededed;
     font-size: 24px;
